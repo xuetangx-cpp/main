@@ -27,3 +27,12 @@
     - 基础：http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043X+2016_T1/info
 
     - 进阶：http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043_2X+2016_T1/info
+
+### Contributors
+- 梁嘉骏
+- 葛泽睿
+- 鲁盼
+- 唐玉涵
+- 张轩
+- 李北辰
+- 苏克
